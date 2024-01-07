@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/firststore/static/css/main.c8a21e40.css",
-    "main.js": "/firststore/static/js/main.b7952052.js",
+    "main.js": "/firststore/static/js/main.38aff143.js",
     "static/js/787.2a3bec00.chunk.js": "/firststore/static/js/787.2a3bec00.chunk.js",
     "static/media/Shoes Images.rar": "/firststore/static/media/Shoes Images.713aaf3540fc140f6ba3.rar",
     "static/media/Nike shoes 1.jpg": "/firststore/static/media/Nike shoes 1.cb2c95bf3cdac5972ff8.jpg",
@@ -23,11 +23,11 @@
     "static/media/Puma Sneaker 5.jpg": "/firststore/static/media/Puma Sneaker 5.e07ef9c396c7e4f9e6c2.jpg",
     "index.html": "/firststore/index.html",
     "main.c8a21e40.css.map": "/firststore/static/css/main.c8a21e40.css.map",
-    "main.b7952052.js.map": "/firststore/static/js/main.b7952052.js.map",
+    "main.38aff143.js.map": "/firststore/static/js/main.38aff143.js.map",
     "787.2a3bec00.chunk.js.map": "/firststore/static/js/787.2a3bec00.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8a21e40.css",
-    "static/js/main.b7952052.js"
+    "static/js/main.38aff143.js"
   ]
 }
