@@ -11,7 +11,7 @@ const Sidebar = ({handleChange}) => {
     <>
         <section className='sidebar'>
           <div className='logo-container'>
-             <h1>AlfroBert Mall</h1>
+             <h1>Asad Raza Mall</h1>
           </div>
           <Category handleChange={handleChange} />
           <Price handleChange={handleChange} />
