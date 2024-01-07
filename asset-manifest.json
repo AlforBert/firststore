@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/firststore/static/css/main.c8a21e40.css",
+    "main.js": "/firststore/static/js/main.b7952052.js",
+    "static/js/787.2a3bec00.chunk.js": "/firststore/static/js/787.2a3bec00.chunk.js",
+    "static/media/Shoes Images.rar": "/firststore/static/media/Shoes Images.713aaf3540fc140f6ba3.rar",
+    "static/media/Nike shoes 1.jpg": "/firststore/static/media/Nike shoes 1.cb2c95bf3cdac5972ff8.jpg",
+    "static/media/Nike shoes 5.jpg": "/firststore/static/media/Nike shoes 5.17d77364ac8782f57bcd.jpg",
+    "static/media/Nike shoes 3.jpg": "/firststore/static/media/Nike shoes 3.35070491d6e0e0f38237.jpg",
+    "static/media/Nike shoes 2.jpg": "/firststore/static/media/Nike shoes 2.0c9ca7cc492f631e0057.jpg",
+    "static/media/Puma Sneaker 4.jpg": "/firststore/static/media/Puma Sneaker 4.2cc040feb7374795fe79.jpg",
+    "static/media/Puma Shoes 1.jpg": "/firststore/static/media/Puma Shoes 1.021abb1187262476e3f5.jpg",
+    "static/media/Adidas Sneaker 1.jpg": "/firststore/static/media/Adidas Sneaker 1.23f8a504a8ac87eef2c3.jpg",
+    "static/media/Puma Shoes 3.jpg": "/firststore/static/media/Puma Shoes 3.d6e526d456909bed39cd.jpg",
+    "static/media/Nike shoes 4.jpg": "/firststore/static/media/Nike shoes 4.bd0e544b4ce76d8f414b.jpg",
+    "static/media/Puma Shoes 2.jpg": "/firststore/static/media/Puma Shoes 2.d2e8e3e580951ce8e70d.jpg",
+    "static/media/Puma Shoes 5.jpg": "/firststore/static/media/Puma Shoes 5.601b2d00e03e512b267d.jpg",
+    "static/media/index.cjs": "/firststore/static/media/index.671993152dc0f6e0b17a.cjs",
+    "static/media/Adidas Sneaker 3.jpg": "/firststore/static/media/Adidas Sneaker 3.51ba11aeb6e6e87f7c65.jpg",
+    "static/media/Adidas Sneaker 2.jpg": "/firststore/static/media/Adidas Sneaker 2.86e7ece4e71aab955a2a.jpg",
+    "static/media/Nike Sneaker 4.jpg": "/firststore/static/media/Nike Sneaker 4.a1b81fbde7c8605fc69d.jpg",
+    "static/media/Adidas Sneaker 5.jpg": "/firststore/static/media/Adidas Sneaker 5.7643648f70cd35cccae6.jpg",
+    "static/media/Puma Sneaker 5.jpg": "/firststore/static/media/Puma Sneaker 5.e07ef9c396c7e4f9e6c2.jpg",
+    "index.html": "/firststore/index.html",
+    "main.c8a21e40.css.map": "/firststore/static/css/main.c8a21e40.css.map",
+    "main.b7952052.js.map": "/firststore/static/js/main.b7952052.js.map",
+    "787.2a3bec00.chunk.js.map": "/firststore/static/js/787.2a3bec00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8a21e40.css",
+    "static/js/main.b7952052.js"
+  ]
+}
